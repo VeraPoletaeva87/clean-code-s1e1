@@ -36,7 +36,7 @@
 .task {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 
 .task-row {
@@ -139,7 +139,7 @@
 }
 
 .list-text-input {
-    width: 226px
+    width: 226px;
 }
 
 .delete:hover {
@@ -164,12 +164,12 @@
 
 /* Edit Task */
 .hide-input {
-    display: none
+    display: none;
 }
 
 .edit-input {
     display: inline-block;
-    width: 224px
+    width: 224px;
 }
 
 .hide-label {
